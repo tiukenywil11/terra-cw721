@@ -93,3 +93,6 @@ terrad tx wasm execute terra13nkgqrfymug724h8pprpexqj9h629sa3ncw7sh '{"mint":{"t
 ```bash
 terrad tx wasm execute terra1wgh6adn8geywx0v78zs9azrqtqdegufuegnwep '{"mint":{"token_id":"Sword","owner":"terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8","token_uri":null,"extension":null}}' --from test1 --chain-id=localterra --fees=1000000uluna --gas=auto --broadcast-mode=block
 ```
+
+6. Contract and transactions can be found here:
+- https://finder.terra.money/localterra/address/terra1wgh6adn8geywx0v78zs9azrqtqdegufuegnwep
